@@ -100,6 +100,5 @@ scikit-learn
 
 ## Author
 
-**Nameer Shah**  
-BS Artificial Intelligence — University of Agriculture Peshawar  
+**Muhammad Nameer Shah** 
 [GitHub](https://github.com/nameershah) · [LinkedIn](https://linkedin.com/in/muhammad-nameer-shah)
